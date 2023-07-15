@@ -1,5 +1,5 @@
 body {
-  background-color: #1f2020;
+  background: linear-gradient(180deg, #271f30 0%, #1f2020 100%);
   width: 100%;
 }
 
